@@ -7,3 +7,6 @@
 [submodule "content/themes/rootstrap-child"]
 	path = content/themes/rootstrap-child
 	url = https://github.com/cannontech/gsn-child.git
+[submodule "content/themes/gsn-base"]
+	path = content/themes/gsn-base
+	url = https://github.com/cannontech/Sparkling.git
