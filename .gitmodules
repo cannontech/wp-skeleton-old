@@ -1,3 +1,9 @@
 [submodule "wp"]
 	path = wp
 	url = https://github.com/WordPress/WordPress.git
+[submodule "content/themes/rootstrap"]
+	path = content/themes/rootstrap
+	url = https://github.com/Rootstrap/Rootstrap.git
+[submodule "content/themes/rootstrap-child"]
+	path = content/themes/rootstrap-child
+	url = https://github.com/cannontech/gsn-child.git
