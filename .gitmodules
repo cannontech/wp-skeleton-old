@@ -13,3 +13,6 @@
 [submodule "content/themes/gsn-child"]
 	path = content/themes/gsn-child
 	url = https://github.com/cannontech/sparkling-child.git
+[submodule "content/themes/sunfresh-147"]
+	path = content/themes/sunfresh-147
+	url = https://github.com/cannontech/sunfresh-147.git
