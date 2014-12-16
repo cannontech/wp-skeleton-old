@@ -10,3 +10,6 @@
 [submodule "content/themes/gsn-base"]
 	path = content/themes/gsn-base
 	url = https://github.com/cannontech/Sparkling.git
+[submodule "content/themes/gsn-child"]
+	path = content/themes/gsn-child
+	url = https://github.com/cannontech/sparkling-child.git
