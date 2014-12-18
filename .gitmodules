@@ -16,3 +16,6 @@
 [submodule "content/themes/sunfresh-147"]
 	path = content/themes/sunfresh-147
 	url = https://github.com/cannontech/sunfresh-147.git
+[submodule "content/plugins/gsn-test-plugin"]
+	path = content/plugins/gsn-test-plugin
+	url = https://github.com/cannontech/gsn-test-plugin.git
